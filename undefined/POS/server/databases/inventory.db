@@ -1,4 +1,13 @@
-{"_id":1654858775,"price":"80","category":"1654858530","quantity":193,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
-{"_id":1654858787,"price":"80","category":"1654858530","quantity":124,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
+{"_id":1654858775,"price":"80","category":"1654858530","quantity":190,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
+{"_id":1654858787,"price":"80","category":"1654858530","quantity":122,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
 {"_id":1654859127,"price":"90.00","category":"1654858530","quantity":119,"name":"Sting","stock":1,"img":""}
 {"_id":1655213513,"price":"120","category":"1655213469","quantity":"100","name":"brownie","stock":1,"img":""}
+{"_id":1655820058,"price":"20","category":"1654858597","quantity":0,"name":"Burger","stock":1,"img":"1655820058582.jpg"}
+{"_id":1656506232,"price":"12312","category":"1654858544","quantity":0,"name":"abd","stock":0,"img":""}
+{"_id":1656506241,"price":"123123","category":"1654858544","quantity":0,"name":"Hamza","stock":0,"img":""}
+{"_id":1656506254,"price":"2156","category":"1654858530","quantity":0,"name":"123","stock":0,"img":""}
+{"_id":1654858775,"price":"80","category":"1654858530","quantity":189,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
+{"_id":1654858787,"price":"80","category":"1654858530","quantity":121,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
+{"_id":1654858775,"price":"80","category":"1654858530","quantity":188,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
+{"_id":1654858787,"price":"80","category":"1654858530","quantity":120,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
+{"_id":1654858775,"price":"80","category":"1654858530","quantity":185,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}

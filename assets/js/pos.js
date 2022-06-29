@@ -647,7 +647,7 @@ if (auth == undefined) {
             let paid = $("#payment").val() == "" ? "" : parseFloat($("#payment").val()).toFixed(2);
             let change = $("#change").text() == "" ? "" : parseFloat($("#change").text()).toFixed(2);
             let refNumber = $("#refNumber").val();
-            let orderNumber = holdOrder;
+            let orderNumber = "";
             let type = "";
             let tax_row = "";
 
@@ -713,7 +713,6 @@ if (auth == undefined) {
 
 
             if (holdOrder != 0) {
-
                 orderNumber = holdOrder;
                 method = 'PUT'
             }
@@ -861,6 +860,8 @@ if (auth == undefined) {
             $("#refNumber").val('');
             $("#change").text('');
             $("#payment").val('');
+            orderNumber=0
+            holdOrder=0
 
         }
 
@@ -932,6 +933,7 @@ if (auth == undefined) {
 
 
         $.fn.orderDetails = function (index, orderType) {
+            console.log("Entered here with index ",index," Order type ",orderType)
 
             $('#refNumber').val('');
 
@@ -946,6 +948,7 @@ if (auth == undefined) {
                 }).prop("selected", true);
 
                 holdOrder = holdOrderList[index]._id;
+                console.log("Hold order ID inm order type 1",holdOrder)
                 cart = [];
                 $.each(holdOrderList[index].items, function (index, product) {
                     item = {
@@ -969,6 +972,7 @@ if (auth == undefined) {
 
 
                 holdOrder = customerOrderList[index]._id;
+                console.log("Hold order ID inm order type 1",holdOrder)
                 cart = [];
                 $.each(customerOrderList[index].items, function (index, product) {
                     item = {
@@ -988,6 +992,7 @@ if (auth == undefined) {
 
 
         $.fn.deleteOrder = function (index, type) {
+            console.log("Entered here in deleted order  with index ",index,"  type ",type)
 
             switch (type) {
                 case 1: deleteId = holdOrderList[index]._id;
