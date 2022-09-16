@@ -35,9 +35,9 @@ color: #FFFFFF;
 }
 
 #product_img {
-  max-height: 80px;
-  border-radius: 50%;
-  max-width: 100px;
+height: 80px;
+  border-radius: 5%;
+ width: 100px;
 }
 
 #reportrange {
@@ -53,7 +53,7 @@ color: #FFFFFF;
 .nobr  { white-space: nowrap;}
 
 #image {
-  height: 80px;
+  height: 100px;
 }
 
 #print_list {
@@ -63,7 +63,8 @@ margin-right: 30px;
 #product_name {
   height: 40px;
   overflow: hidden;
-  border-bottom: 1px solid #f1f1f1;
+  color: #000;
+  font-size: 16px;
 }
 
 .stock {

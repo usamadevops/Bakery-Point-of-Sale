@@ -93,8 +93,8 @@
 .btn-primary:focus,
 .btn-primary:hover,
 .open > .dropdown-toggle.btn-primary {
-  background-color: #111F4D !important;
-  border: 1px solid #111F4D !important;
+  background-color: #112B3C  !important;
+  border: 1px solid #112B3C  !important;
 }
 .btn-success,
 .btn-success:hover,
@@ -106,8 +106,8 @@
 .btn-success:focus,
 .btn-success:hover,
 .open > .dropdown-toggle.btn-success {
-  background-color: #111F4D !important;
-  border: 1px solid #111F4D !important;
+  background-color: #112B3C  !important;
+  border: 1px solid #112B3C  !important;
 }
 
 .btn-white,
@@ -164,7 +164,7 @@
 .btn-warning:focus,
 .btn-warning:hover,
 .open > .dropdown-toggle.btn-warning {
-  background-color: #111F4D !important;
+  background-color: #112B3C  !important;
   border: 1px solid #020205 !important;
 }
 .btn-danger,
@@ -297,7 +297,7 @@
 }
 .btn-label {
   background: #020205;
-  background-color: #111F4D;
+  background-color: #112B3C ;
   display: inline-block;
   padding: 7px 15px;
   border-radius: 3px 0 0 3px;

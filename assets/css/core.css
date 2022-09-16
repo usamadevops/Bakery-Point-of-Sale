@@ -133,6 +133,12 @@ a:focus {
   text-align: center;
   width: 30px;
 }
+.stock_price{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
 /* =============
    Helper clasess
 ============= */
@@ -557,6 +563,7 @@ textarea.form-control {
   color: #020205;
   padding: 7px 12px;
   height: 38px;
+  min-width: 60px;
   max-width: 100%;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -611,7 +618,7 @@ textarea.form-control {
   padding: .3em .6em .3em;
 }
 .label-default {
-  background-color: #111F4D;
+  background-color: #112B3C ;
 }
 .label-primary {
   background-color: #E43A19;
@@ -620,7 +627,7 @@ textarea.form-control {
   background-color: #E43A19;
 }
 .label-info {
-  background-color: #111F4D;
+  background-color: #112B3C ;
 }
 .label-warning {
   background-color: #ffbd4a;
@@ -759,10 +766,10 @@ textarea.form-control {
   width: 100%;
 }
 .tabs li.tab a.active {
-  color: #111F4D !important;
+  color: #112B3C  !important;
 }
 .tabs .indicator {
-  background-color: #111F4D;
+  background-color: #112B3C ;
   bottom: 0;
   height: 2px;
   position: absolute;
@@ -775,13 +782,13 @@ textarea.form-control {
   line-height: 36px !important;
 }
 .nav-pills li.active a {
-  background-color: #111F4D !important;
+  background-color: #112B3C  !important;
 }
 .nav-pills li.active a:hover {
-  background-color: #111F4D !important;
+  background-color: #112B3C  !important;
 }
 .nav-pills li.active a:focus {
-  background-color: #111F4D !important;
+  background-color: #112B3C  !important;
 }
 .nav.nav-tabs + .tab-content {
   background: #ffffff;
@@ -834,7 +841,7 @@ textarea.form-control {
 }
 .nav.nav-tabs > li > a:hover,
 .nav.tabs-vertical > li > a:hover {
-  color: #111F4D !important;
+  color: #112B3C  !important;
 }
 .tab-content {
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -862,7 +869,7 @@ textarea.form-control {
 .tabs-vertical > li.active > a,
 .tabs-vertical > li.active > a:focus,
 .tabs-vertical > li.active > a:hover {
-  color: #111F4D !important;
+  color: #112B3C  !important;
 }
 /* List group */
 .list-group-item {

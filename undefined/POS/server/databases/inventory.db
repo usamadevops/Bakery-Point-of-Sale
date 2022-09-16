@@ -1,13 +1,8 @@
-{"_id":1654858775,"price":"80","category":"1654858530","quantity":190,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
-{"_id":1654858787,"price":"80","category":"1654858530","quantity":122,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
-{"_id":1654859127,"price":"90.00","category":"1654858530","quantity":119,"name":"Sting","stock":1,"img":""}
-{"_id":1655213513,"price":"120","category":"1655213469","quantity":"100","name":"brownie","stock":1,"img":""}
-{"_id":1655820058,"price":"20","category":"1654858597","quantity":0,"name":"Burger","stock":1,"img":"1655820058582.jpg"}
-{"_id":1656506232,"price":"12312","category":"1654858544","quantity":0,"name":"abd","stock":0,"img":""}
-{"_id":1656506241,"price":"123123","category":"1654858544","quantity":0,"name":"Hamza","stock":0,"img":""}
-{"_id":1656506254,"price":"2156","category":"1654858530","quantity":0,"name":"123","stock":0,"img":""}
-{"_id":1654858775,"price":"80","category":"1654858530","quantity":189,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
-{"_id":1654858787,"price":"80","category":"1654858530","quantity":121,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
-{"_id":1654858775,"price":"80","category":"1654858530","quantity":188,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
-{"_id":1654858787,"price":"80","category":"1654858530","quantity":120,"name":"Sprite","stock":1,"img":"1654858787635.jpg"}
-{"_id":1654858775,"price":"80","category":"1654858530","quantity":185,"name":"Coca Cola","stock":1,"img":"1654858775294.jpg"}
+{"_id":1663311295,"price":"15","category":"1663311064","quantity":0,"name":"Beef Burger","stock":0,"img":"1663311295959.jpg"}
+{"_id":1663312605,"price":"10","category":"1663311064","quantity":0,"name":"Chicken Burger","stock":0,"img":"1663312605683.jpg"}
+{"_id":1663312623,"price":"8.00","category":"1663311069","quantity":"0","name":"Mango Shake","stock":0,"img":"1663312623094.jpg"}
+{"_id":1663312639,"price":"8","category":"1663311069","quantity":0,"name":"Vanilla Shake","stock":0,"img":"1663312639540.jpg"}
+{"_id":1663312831,"price":"6","category":"1663311079","quantity":0,"name":"Finger Chips","stock":0,"img":"1663312831506.jpg"}
+{"_id":1663313354,"price":"8","category":"1663311079","quantity":0,"name":"Long Fries","stock":0,"img":"1663313354095.jpg"}
+{"_id":1663313389,"price":"25","category":"1663311084","quantity":0,"name":"Cheese Pizza","stock":0,"img":"1663313389285.jpg"}
+{"_id":1663313415,"price":"28","category":"1663311084","quantity":0,"name":"Chicken Fajita","stock":0,"img":"1663313415517.jpg"}
